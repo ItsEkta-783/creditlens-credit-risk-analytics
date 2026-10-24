@@ -1,4 +1,5 @@
 # CreditLens | Credit-card default analytics
+🔗 **Live Demo:** [Open CreditLens]([https://creditlens-credit-risk-analytics-zavsmll3txouzqx72laauz.streamlit.app/](https://creditlens-credit-risk-analytics-zavsmll3txouzqx72laauz.streamlit.app/))
 
 CreditLens is a portfolio project for exploring historical credit-card repayment behavior, comparing baseline classification pipelines, and explaining their outputs. It is an educational analysis of **next-month credit-card default**; it does not predict loan approval or recommend credit decisions.
 
